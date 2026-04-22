@@ -34,8 +34,10 @@ a_1 = b_1 = 1
 ## Скриншоты результатов
 
 1. Запуск linearize.py (линеаризация списка)
+<img width="931" height="60" alt="изображение" src="https://github.com/user-attachments/assets/547460e1-f793-4ff2-bd0d-e6c96357c3ac" />
 
 2. Запуск task2.py (расчёт последовательности)
+<img width="929" height="55" alt="изображение" src="https://github.com/user-attachments/assets/d5e028ed-d0fc-4ae2-abd3-9ee3e9c451ec" />
 
 
 ## Ссылки на используемые материалы
